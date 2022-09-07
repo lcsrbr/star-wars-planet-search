@@ -1,0 +1,58 @@
+/* table {
+  background-color: red;
+}
+
+tbody {
+  display: flex;
+}
+
+table tr {
+  background-color: blue;
+}
+
+table th {
+  background-color: green;
+}
+
+table td {
+  background-color: orange;
+  height: 50px;
+} */
+
+form {
+ display: flex;
+ flex-direction: column;
+align-items: center;
+gap: 2rem;
+}
+
+.filterSort {
+  display: flex;
+  flex-direction: row;
+  gap: 7rem;
+}
+
+table {
+text-align: center;
+background-color: black;
+
+}
+
+table tr {
+background-color: rgba(255, 255, 255, 0.11);
+}
+
+body {
+  background-color: rgb(51, 51, 51);
+  color: antiquewhite;
+}
+
+a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
