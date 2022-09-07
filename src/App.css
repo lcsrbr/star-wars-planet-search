@@ -35,7 +35,16 @@ gap: 2rem;
 table {
 text-align: center;
 background-color: black;
+position: absolute;
+left: 50%;
+top: 35%;
+transform: translate(-50%);
+width: 150vh;
+height: 100vh;
+}
 
+thead th {
+  width: 100px;
 }
 
 table tr {
@@ -55,4 +64,8 @@ a {
 a:hover {
   text-decoration: none;
   color: white;
+}
+
+.filmsH {
+  width: 190px;
 }

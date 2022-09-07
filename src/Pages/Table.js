@@ -12,14 +12,14 @@ function Table() {
         <tr>
           <th>Name</th>
           <th>Rotation Period</th>
-          <th>orbital_period</th>
-          <th>diameter</th>
-          <th>climate</th>
-          <th>gravity</th>
-          <th>terrain</th>
-          <th>surface_water</th>
-          <th>population</th>
-          <th>films</th>
+          <th>Orbital Period</th>
+          <th>Diameter</th>
+          <th>Climate</th>
+          <th>Gravity</th>
+          <th>Terrain</th>
+          <th>Surface_Water</th>
+          <th>Population</th>
+          <th className="filmsH">Films</th>
         </tr>
       </thead>
       {
